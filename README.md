@@ -19,4 +19,7 @@ Node.js 版本需大于 18。
 - 4pnpm dev 进行启动
 
 ## 注意
-在本项目中的Api需要自己进行调用，本人库里有一个fork的Api,可进行使用。
+- 在本项目中的Api需要自己进行调用，在github中搜索L-1124/ QQMusicApi可找到Luren此大神，使用现阶段可用的Api进行fork
+- fork后在vercel进行部署，可使用阿里云或腾讯云进行DNS的域名解析，解析后可在国内使用
+- 可在.env.development .env.production .env.test 三个文件下更改Api
+  
