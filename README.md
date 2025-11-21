@@ -4,6 +4,7 @@
 ## 项目简介
 一个基于 Vue3 + TypeScript 开发的高颜值毛玻璃风格音乐播放器，支持网易云音乐API对接。
 
+
 ## 系统需求
 Node.js 版本需大于 18。
 
@@ -22,4 +23,4 @@ Node.js 版本需大于 18。
 - 在本项目中的Api需要自己进行调用，在github中搜索L-1124/ QQMusicApi可找到Luren此大神，使用现阶段可用的Api进行fork
 - fork后在vercel进行部署，可使用阿里云或腾讯云进行DNS的域名解析，解析后可在国内使用
 - 可在.env.development .env.production .env.test 三个文件下更改Api
-  
+- 本项目只用于个人学习所用，所有以盈利为目的的商业行为如触犯到版权问题需自己负责
